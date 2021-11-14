@@ -6,7 +6,7 @@
                 <a class="text-bold-800 grey darken-2" href="https://themeselection.com" target="_blank">ThemeSelection</a>
             </span>
             <ul class="list-inline float-md-right d-block d-md-inline-blockd-none d-lg-block mb-0">
-                <li class="list-inline-item"><a class="my-1" href="#" target="_blank"> Github Link</a></li>
+                <li class="list-inline-item"><a class="my-1" href="https://github.com/Teejayblaze/glade-assessment" target="_blank"> Github Link</a></li>
             </ul>
         </div>
     </footer>
